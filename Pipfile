@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 tweepy = "*"
+peewee = "*"
+pip = "*"
+mysql-connector-python = "*"
+mysql-connector = "*"
+pymysql = "*"
 
 [dev-packages]
 

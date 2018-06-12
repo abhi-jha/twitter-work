@@ -2,4 +2,4 @@
 __pycache__/
 credentials.py
 venv/
-
+twitter.log
